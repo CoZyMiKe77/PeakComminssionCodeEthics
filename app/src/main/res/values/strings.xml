@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Peak Commissions</string>
+
+    <string name="Full_Name">Full Name</string>
+    <string name="Email">Enter Email</string>
+    <string name="pass">Enter Password</string>
+    <string name="login">LogIn</string>
+    <string name="register">Register</string>
+    <string name="for_Pass">Forget Password</string>
+    <string name="Username">Username</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="create_btn">Create Account</string>
+    <string name="Old_pass">Enter old password</string>
+    <string name="new_pass">Enter new password</string>
+    <string name="phone">Enter Phone number</string>
+    <string name="next_btn">NEXT</string>
+
+    <string name="Home">Home Page</string>
+    <string name="Birth_cert">Birth Certificate</string>
+    <string name="passport">Passport</string>
+    <string name="Affit_gaz">Affidavit and Gazette</string>
+    <string name="Marr_Div">Marriage and Divorce</string>
+    <string name="Lic">License</string>
+    <string name="Jobs_intern">Jobs and Interns</string>
+
+
+    //for birth certificate
+    <string name="Surname">SURNAME</string>
+    <string name="Fname">FIRST NAME</string>
+    <string name="Dte_birth">DATE OF BIRTH</string>
+    <string name="plc_birth">PLACE OF BIRTH</string>
+    <string name="OthrNames">OTHER NAMES</string>
+    <string name="Father">FATHER</string>
+    <string name="Mother">MOTHER</string>
+    <string name="name">NAME</string>
+    <string name="Occp">OCCUPATION</string>
+    <string name="Natly">NATIONALITY</string>
+    <string name="Reg">RELIGION</string>
+    <string name="Info">INFORMAT</string>
+    <string name="Info_name">Name in full(Relationship to the child if any)</string>
+    <string name="Add_info">The informat section can either be your mother or father</string>
+    <string name="btn_Next">NEXT</string>
+
+    //for menu
+    <string name="nav_home">Home</string>
+    <string name="nav_ID">valid National ID</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_pay_mthd">Payment Methods</string>
+    <string name="nav_message">Message Us</string>
+    <string name="nav_call">Call Us</string>
+    <string name="nav_help">Help and Support</string>
+    <string name="nav_logOut">Log Out</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    //bottom nav
+    <string name="b_nav_home">Home</string>
+    <string name="b_nav_notify">Notifications</string>
+    <string name="b_nav_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
